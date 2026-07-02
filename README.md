@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Fenggang Yu 👋</h1>
 
-<h3 align="center">Computer Science Student @ PolyU | LLM/NLP Researcher | AI Agent Builder</h3>
+<h3 align="center">Computer Science Student @ PolyU | LLM/NLP Researcher | AI Agent Builder | Full-Stack Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/TorkeMeo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Exploring+LLM+Reasoning+%26+Cultural+Awareness;Building+AI+Agent+and+RAG+Systems;Researching+Human-Centred+AI+and+NLP;Always+learning%2C+shipping%2C+and+iterating" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Python %26 C++ %26 Java %26 Rust %26 SQL;Exploring+LLM+Reasoning+%26+Cultural+Awareness;Building+AI+Agent+and+RAG+Systems;Researching+Human-Centred+AI+aSQLnd+NLP;Always+learning%2C+shipping%2C+and+iterating" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,12 +12,13 @@
 
 ## About Me
 
-- 🎓 Computer Science undergraduate at **The Hong Kong Polytechnic University**, expected graduation **2028**
-- 🏅 **Dean's List** student, GPA **3.74 / 4.3**, top 10% in major
+- 🎓 Computer Science undergraduate at **The Hong Kong Polytechnic University**, year 2 student
+- 🏅 **Dean's List** student, GPA **3.74 / 4.3**
 - 🔬 Student Assistant at **PolyU NLP Lab**, working on LLM/NLP research
 - 🤖 Interested in **AI Agents, RAG, LLM evaluation, prompt engineering, and strategic reasoning**
-- 🧠 Currently exploring how LLMs understand culture, aesthetics, long-term decision-making, and multi-agent interaction
+- 🧠 Exploring how LLMs understand culture, aesthetics, long-term decision-making, and multi-agent interaction
 - 🛠️ I enjoy turning research ideas into reproducible experiments and practical engineering workflows
+- 📝 Excellent crawler skill and dataset building ability.
 
 ---
 
@@ -27,6 +28,7 @@
 - **AI Agents:** perception-diagnosis-decision-execution workflows, tool use, automated evaluation, and skill packaging
 - **RAG Systems:** document processing, embedding, vector retrieval, knowledge base construction, and context-aware generation
 - **Human-Centred AI:** cultural awareness, cross-cultural aesthetic language, and model behavior analysis
+- **Multi-LLM Interaction:** interactive discussion, collaborative reasoning, debate, consultation, and emergent multi-model behavior
 
 ---
 
@@ -38,7 +40,7 @@
 arXiv: [2605.27296](https://doi.org/10.48550/arXiv.2605.27296)  
 Code: [Culture-Awareness](https://github.com/TorkeMeo/Culture-Awareness/tree/movie/tmdb)
 
-I worked as a co-first author on an LLM/NLP study evaluating how large language models understand cultural awareness and aesthetic stylistics in Hong Kong and Mainland China language contexts.
+An LLM/NLP study evaluating how large language models understand cultural awareness and aesthetic stylistics in Hong Kong and Mainland China language contexts.
 
 ### Foresight Optimization for Strategic Reasoning in Large Language Models
 
@@ -69,19 +71,14 @@ This work studies how foresight-based optimization can improve strategic reasoni
 | [Culture-Awareness](https://github.com/TorkeMeo/Culture-Awareness/tree/movie/tmdb) | LLM cultural awareness and aesthetic stylistics evaluation | LLM Evaluation, NLP, Human-Centred AI |
 | Foresight Optimization for Strategic Reasoning | Research on improving long-term strategic reasoning in LLMs | Strategic Reasoning, Multi-Agent, Policy Optimization |
 | RAG / Knowledge Base Experiments | Document processing, chunking, embedding, retrieval, and context generation workflows | RAG, Embedding, Vector Search |
-| AI Coding Workflows | Using Codex, Cursor, and AI-assisted development tools for debugging and experimental implementation | AI Coding, Automation, Engineering |
+
 
 ---
 
-## GitHub Stats
+## Contribution Snake
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TorkeMeo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorkeMeo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TorkeMeo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/TorkeMeo/TorkeMeo/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ---
@@ -109,13 +106,3 @@ This work studies how foresight-based optimization can improve strategic reasoni
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TorkeMeo&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
-
-<!--
-Optional snake animation:
-If you later add a GitHub Actions workflow to generate the snake contribution animation,
-you can uncomment this block and make sure the generated SVG path exists.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TorkeMeo/TorkeMeo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
--->
