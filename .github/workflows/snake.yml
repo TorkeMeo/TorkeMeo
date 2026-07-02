@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - main
+      - movie/tmdb
 
 jobs:
   generate:
@@ -23,7 +24,7 @@ jobs:
           github_user_name: TorkeMeo
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2358a6ff&color_dots=%239f9f9f,%230e4429,%23006d32,%2326a641,%2339d353
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2358a6ff&color_dots=%23ebedf0,%230e4429,%23006d32,%2326a641,%2339d353
 
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v4
