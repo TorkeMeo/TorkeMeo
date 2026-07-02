@@ -23,7 +23,7 @@ jobs:
           github_user_name: TorkeMeo
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2358a6ff&color_dots=%23c9d1d9,%230e4429,%23006d32,%2326a641,%2339d353
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2358a6ff&color_dots=%23ffffff,%230e4429,%23006d32,%2326a641,%2339d353
 
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v4
