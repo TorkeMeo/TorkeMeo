@@ -75,10 +75,15 @@ This work studies how foresight-based optimization can improve strategic reasoni
 
 ---
 
-## Contribution Snake
+## GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TorkeMeo/TorkeMeo/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TorkeMeo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorkeMeo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TorkeMeo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
