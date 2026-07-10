@@ -71,7 +71,7 @@ This work studies how foresight-based optimization can improve strategic reasoni
 | [Culture-Awareness](https://github.com/TorkeMeo/Culture-Awareness/tree/movie/tmdb) | LLM cultural awareness and aesthetic stylistics evaluation | LLM Evaluation, NLP, Human-Centred AI |
 | Foresight Optimization for Strategic Reasoning | Research on improving long-term strategic reasoning in LLMs | Strategic Reasoning, Multi-Agent, Policy Optimization |
 | RAG / Knowledge Base Experiments | Document processing, chunking, embedding, retrieval, and context generation workflows | RAG, Embedding, Vector Search |
-| Plants recognition system based on traditional machine learning approach | Feature extraction, noise deduction, data augumentation, SVM, and GUI | Feature extraction, Machine learning |
+| [Plants recognition system based on traditional machine learning approach](https://github.com/TorkeMeo/Plant-Recognition-System-Based-on-SVM.git) | Feature extraction, noise deduction, data augumentation, SVM, and GUI | Feature extraction, Machine learning |
 
 
 ---
