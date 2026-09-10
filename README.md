@@ -12,7 +12,7 @@
 
 ## About Me
 
-- 🎓 Computer Science undergraduate at **The Hong Kong Polytechnic University**, year 2 student
+- 🎓 Computer Science undergraduate at **The Hong Kong Polytechnic University**, year 3 student
 - 🏅 **Dean's List** student, GPA **3.74 / 4.3**
 - 🔬 Student Assistant at **PolyU NLP Lab**, working on LLM/NLP research
 - 🤖 Interested in **AI Agents, RAG, LLM evaluation, prompt engineering, and strategic reasoning**
