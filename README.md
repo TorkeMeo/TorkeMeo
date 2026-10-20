@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/TorkeMeo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;size=22&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Python%20%26%20C%2B%2B%20%26%20Java%20%26%20Rust%20%26%20SQL;Exploring%20LLM%20Reasoning%20%26%20Cultural%20Awareness;Building%20AI%20Agent%20and%20RAG%20Systems;Researching%20Human-Centred%20AI%20and%20NLP;Always%20learning%2C%20shipping%2C%20and%20iterating;总有人要去承担这疯狂世界，既然如此，就让我来吧" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;size=22&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Python%20%26%20C%2B%2B%20%26%20Java%20%26%20Rust%20%26%20SQL;Exploring%20LLM%20Reasoning%20%26%20Cultural%20Awareness;Building%20AI%20Agent%20and%20RAG%20Systems;Researching%20Human-Centred%20AI%20and%20NLP;Always%20learning%2C%20shipping%2C%20and%20iterating;总有人要去承担这疯狂世界,既然如此,就让我来吧" alt="Typing SVG" />
   </a>
 </p>
 
