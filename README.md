@@ -13,7 +13,7 @@
 ## About Me
 
 - 🎓 Computer Science undergraduate at **The Hong Kong Polytechnic University**, year 3 student
-- 🏅 **Dean's List** student, GPA **3.74 / 4.3**
+- 🏅 FENG **Dean's List** student
 - 🔬 Student Assistant at **PolyU NLP Lab**, working on LLM/NLP research
 - 🤖 Interested in **AI Agents, RAG, LLM evaluation, prompt engineering, and strategic reasoning**
 - 🧠 Exploring how LLMs understand culture, aesthetics, long-term decision-making, and multi-agent interaction
