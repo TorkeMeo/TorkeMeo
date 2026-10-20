@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/TorkeMeo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;size=22&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Python%20%26%20C%2B%2B%20%26%20Java%20%26%20Rust%20%26%20SQL;Exploring%20LLM%20Reasoning%20%26%20Cultural%20Awareness;Building%20AI%20Agent%20and%20RAG%20Systems;Researching%20Human-Centred%20AI%20and%20NLP;Always%20learning%2C%20shipping%2C%20and%20iterating;总有人要去承担这疯狂世界,既然如此,就让我来吧" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto%20Sans%20SC&amp;size=22&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Python%20%26%20C%2B%2B%20%26%20Java%20%26%20Rust%20%26%20SQL;Exploring%20LLM%20Reasoning%20%26%20Cultural%20Awareness;Building%20AI%20Agent%20and%20RAG%20Systems;Researching%20Human-Centred%20AI%20and%20NLP;Always%20learning%2C%20shipping%2C%20and%20iterating;%E6%80%BB%E6%9C%89%E4%BA%BA%E8%A6%81%E5%8E%BB%E6%89%BF%E6%8B%85%E8%BF%99%E7%96%AF%E7%8B%82%E4%B8%96%E7%95%8C%EF%BC%8C%E6%97%A2%E7%84%B6%E5%A6%82%E6%AD%A4%EF%BC%8C%E5%B0%B1%E8%AE%A9%E6%88%91%E6%9D%A5%E5%90%A7" alt="Typing SVG" />
   </a>
 </p>
 
